@@ -1,0 +1,65 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "OpenGL_BoilerPlate_autogen::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "OpenGL_BoilerPlate_autogen",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Thiago Souto/Documents/OpenGL/1-BoilerPlate/build-OpenGL_BoilerPlate-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/OpenGL_BoilerPlate_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Thiago Souto/Documents/OpenGL/1-BoilerPlate/build-OpenGL_BoilerPlate-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/OpenGL_BoilerPlate_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Thiago Souto/Documents/OpenGL/1-BoilerPlate/build-OpenGL_BoilerPlate-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/OpenGL_BoilerPlate_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

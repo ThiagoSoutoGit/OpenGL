@@ -1,0 +1,4 @@
+C:/Users/Thiago Souto/Documents/OpenGL/1-BoilerPlate/build-OpenGL_BoilerPlate-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/OpenGL_BoilerPlate.dir
+C:/Users/Thiago Souto/Documents/OpenGL/1-BoilerPlate/build-OpenGL_BoilerPlate-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Thiago Souto/Documents/OpenGL/1-BoilerPlate/build-OpenGL_BoilerPlate-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Thiago Souto/Documents/OpenGL/1-BoilerPlate/build-OpenGL_BoilerPlate-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/OpenGL_BoilerPlate_autogen.dir

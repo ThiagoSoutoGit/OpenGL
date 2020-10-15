@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Thiago Souto/Documents/OpenGL/3-Console Application/build-ConsoleOpenGL-Desktop_x86_windows_msvc2019_pe_32bit-Debug/CMakeFiles/ConsoleOpenGL.dir/embed.manifest"

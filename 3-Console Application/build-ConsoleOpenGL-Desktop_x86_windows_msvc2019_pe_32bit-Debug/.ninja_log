@@ -1,0 +1,21 @@
+# ninja log v5
+1	400	624267548	CMakeFiles/ConsoleOpenGL.dir/main.cpp.obj	b2d05f7967766c77
+400	690	624267548	ConsoleOpenGL.exe	7a989ec5198d636c
+1	167	624267558	build.ninja	29f0b90392f75e4b
+0	391	624267558	CMakeFiles/ConsoleOpenGL.dir/main.cpp.obj	d97fb17cd23598f1
+391	498	624267558	ConsoleOpenGL.exe	7a989ec5198d636c
+0	587	624268320	build.ninja	29f0b90392f75e4b
+1	798	624268440	CMakeFiles/ConsoleOpenGL.dir/main.cpp.obj	d97fb17cd23598f1
+798	909	624268441	ConsoleOpenGL.exe	7a989ec5198d636c
+1	611	624268592	build.ninja	29f0b90392f75e4b
+0	551	624268592	CMakeFiles/ConsoleOpenGL.dir/main.cpp.obj	23775d72e7d9709b
+552	671	624268592	ConsoleOpenGL.exe	7a989ec5198d636c
+0	534	624268842	build.ninja	29f0b90392f75e4b
+0	522	624268842	CMakeFiles/ConsoleOpenGL.dir/main.cpp.obj	23775d72e7d9709b
+523	629	624268842	ConsoleOpenGL.exe	7a989ec5198d636c
+1	560	624268866	build.ninja	29f0b90392f75e4b
+0	588	624269412	build.ninja	29f0b90392f75e4b
+1	126	624281797	build.ninja	29f0b90392f75e4b
+1	114	624281824	build.ninja	29f0b90392f75e4b
+0	512	624281824	CMakeFiles/ConsoleOpenGL.dir/main.cpp.obj	23775d72e7d9709b
+512	632	624281824	ConsoleOpenGL.exe	7a989ec5198d636c

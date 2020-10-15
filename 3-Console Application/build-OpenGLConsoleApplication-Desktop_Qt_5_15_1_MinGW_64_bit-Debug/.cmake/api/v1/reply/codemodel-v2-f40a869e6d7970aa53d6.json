@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OpenGLConsoleApplication",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenGLConsoleApplication::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenGLConsoleApplication-Debug-cb46642fdeca751f20e5.json",
+					"name" : "OpenGLConsoleApplication",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Thiago Souto/Documents/OpenGL/3-Console Application/build-OpenGLConsoleApplication-Desktop_Qt_5_15_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Thiago Souto/Documents/OpenGL/3-Console Application/OpenGLConsoleApplication"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

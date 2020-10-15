@@ -1,0 +1,4 @@
+C:/Users/Thiago Souto/Documents/OpenGL/2-OpenGLCourseAPP/build-OpenGLCourseAPP-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/OpenGLCourseAPP.dir
+C:/Users/Thiago Souto/Documents/OpenGL/2-OpenGLCourseAPP/build-OpenGLCourseAPP-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Thiago Souto/Documents/OpenGL/2-OpenGLCourseAPP/build-OpenGLCourseAPP-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Thiago Souto/Documents/OpenGL/2-OpenGLCourseAPP/build-OpenGLCourseAPP-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/OpenGLCourseAPP_autogen.dir

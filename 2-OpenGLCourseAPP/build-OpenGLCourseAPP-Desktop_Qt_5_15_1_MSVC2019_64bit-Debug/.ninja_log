@@ -1,0 +1,21 @@
+# ninja log v5
+1	262	624252963	build.ninja	4af3c1537cad8556
+5	189	624253250	OpenGLCourseAPP_autogen/timestamp	c619e834c41cb082
+189	1401	624253251	CMakeFiles/OpenGLCourseAPP.dir/OpenGLCourseAPP_autogen/mocs_compilation.cpp.obj	890c1ddb7e5f0f16
+191	1402	624253251	CMakeFiles/OpenGLCourseAPP.dir/main.cpp.obj	4be2174a9d4c40a1
+8	57	624251617	glew_autogen/timestamp	c39d9b56aad0bcf5
+194	1407	624253251	CMakeFiles/OpenGLCourseAPP.dir/widget.cpp.obj	a9f52c84c248e6a7
+58	464	624251618	CMakeFiles/glew.dir/glew_autogen/mocs_compilation.cpp.obj	f293578fb7af6c24
+464	491	624251618	glew.lib	c90a4b7282ecff3d
+4	978	624253262	CMakeFiles/OpenGLCourseAPP.dir/widget.cpp.obj	a9f52c84c248e6a7
+1	257	624253309	build.ninja	4af3c1537cad8556
+6	1211	624253311	CMakeFiles/OpenGLCourseAPP.dir/main.cpp.obj	7429a2754064f8ff
+8	1214	624253311	CMakeFiles/OpenGLCourseAPP.dir/OpenGLCourseAPP_autogen/mocs_compilation.cpp.obj	b2f5533720c5f6d7
+4	1218	624253311	CMakeFiles/OpenGLCourseAPP.dir/widget.cpp.obj	89713fe7fd74cbe7
+5	1435	624254291	CMakeFiles/OpenGLCourseAPP.dir/widget.cpp.obj	89713fe7fd74cbe7
+4	1178	624254320	CMakeFiles/OpenGLCourseAPP.dir/widget.cpp.obj	89713fe7fd74cbe7
+8	1229	624254385	CMakeFiles/OpenGLCourseAPP.dir/widget.cpp.obj	89713fe7fd74cbe7
+5	1234	624254385	CMakeFiles/OpenGLCourseAPP.dir/main.cpp.obj	7429a2754064f8ff
+4	1165	624254464	CMakeFiles/OpenGLCourseAPP.dir/main.cpp.obj	7429a2754064f8ff
+4	1177	624254544	CMakeFiles/OpenGLCourseAPP.dir/main.cpp.obj	7429a2754064f8ff
+2	1105	624256984	build.ninja	4af3c1537cad8556
